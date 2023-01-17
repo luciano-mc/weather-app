@@ -1,0 +1,9 @@
+.weatherContainer {
+    max-width: 500px;
+    margin: 100px auto;
+}
+
+.error {
+    outline: 2px solid red !important;
+    color: red;
+}
